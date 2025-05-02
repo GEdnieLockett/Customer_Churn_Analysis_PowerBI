@@ -32,4 +32,5 @@ Each element should have a clear function and all unnessasary data is to be remo
 - Highest Customer Service Calls is <20 (1.76 avg calls)
 - Most valuable customers Monthly vs Customer Calls is 20-29 
 
+![Customer Churn PBI Image](https://github.com/GEdnieLockett/Customer_Churn_Analysis_PowerBI/blob/main/Customer%20Churn%20Analysis%20-%20PBI.jpg)
 
